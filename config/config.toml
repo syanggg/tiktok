@@ -1,0 +1,29 @@
+[mysql]
+host = "127.0.0.1"
+port = 3306
+database = "tiktok_db"
+username = "root"
+password = "010911"
+charset = "utf8mb4"
+parse_time = true
+loc = "Local"
+
+[redis]
+host = "127.0.0.1"
+port = 6379
+database = 0  #use default db
+
+
+[jwt]
+key = "syang_haha"
+
+[server]
+host = "192.168.110.80"
+port = 8080
+
+[tiktok]
+feed_limit = 30
+
+[path]
+ffmpeg_path = "D:/project/tiktok/ffmpeg/ffmpeg.exe"
+static_path = "D:/project/tiktok/static"
