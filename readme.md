@@ -9,5 +9,3 @@ mysql
 redis
 
 配置静态资源服务器：安装ffmpeg，文件在ffmpeg文件夹中
-
-haha
