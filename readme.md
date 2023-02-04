@@ -6,7 +6,7 @@
 
 2. mysql
 
-3. redis
+3. redis中间件
 
 4. 配置静态资源服务器：安装ffmpeg（相关配置文件在config包）。
 
